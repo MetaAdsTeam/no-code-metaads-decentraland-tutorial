@@ -11,26 +11,26 @@ Import this file into a custom asset pack in the **[Builder]**.
 
 * Choose or [create] your scene (click on the plus icon).
 
-![Choosing scene](/readme_images/1.png)
+![Choosing scene](/images/1.png)
 
 * Open selected scene in editor.
 
-![Selected scene](/readme_images/2.png)
+![Selected scene](/images/2.png)
 
 * There is a panel with assets at the right side. Scroll it down and click on the *New Asset Pack* button or find a *plus* icon in the upper right corner and press it.
 A window will appear — there you can create your asset pack. Drag that file or select the file from your computer.
 
-![Adding asset pack](/readme_images/3.png)
+![Adding asset pack](/images/3.png)
 
 * After downloading, open the created asset pack, pick a billboard and drag it to your scene.
 
-![Adding asset to scene](/readme_images/4.png)
+![Adding asset to scene](/images/4.png)
 
 * Go back to the website and continue ad spot registration. Get a PIN code for your ad spot.
 
 * Open Builder, select the specified asset and enter the PIN code in the corresponding field.
 
-![Fill a PIN field](/readme_images/5.png)
+![Fill a PIN field](/images/5.png)
 
 * Do a health check with the Builder preview.
 
@@ -38,7 +38,7 @@ A window will appear — there you can create your asset pack. Drag that file or
 Press *Continue* and *Publish*. After the scene has been deployed, you will see a message.
 Click on *Jump in* and enjoy your scene.
 
-![Scene in Decentraland](/readme_images/6.png)
+![Scene in Decentraland](/images/6.png)
 
 [Launch the app]: <https://metaads.team/>
 [My Ad Space]: <https://metaads.team/main/publisher/my-adspaces>
